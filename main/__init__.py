@@ -15,8 +15,8 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 
 
 # variables
-API_ID = config("21179966", default=None, cast=int)
-API_HASH = config("d97919fb0a3c725e8bb2a25bbb37d57c", default=None)
+API_ID = config("18156248", default=None, cast=int)
+API_HASH = config("db946fb6805b1a698c679626b617e77a", default=None)
 BOT_TOKEN = config("7514558685:AAFNX2hIIpKPPztsovHHvQSujaQ1YVaNDCA", default=None)
 SESSION = config("AQFDLj4AwVJQxc4eJUHWn9ZTGW30o-HHgs_xR6fiolhw5Y-a0AOXT6v0lmwAi9VoAbp_gH05uMhon9BrB0RjWwwk1eY3eZ_WBzpHiV0bMwQinGRQlYiiORqgHiFzW17uT_6SLsmd03gtIzicFjun3lXO0TfSogSw5FnbQVxuTyMzaXTRmzPdl89UuBt2hU_LC-cLOac8jErdnc_01OyqS5uceC59tIo-r8k8YoCVBXfPP2faysgAXPKNHZfrlGNlnwore-5yRdkWfGMweEH1tj4Bes1fIXN10iVkfJjJwPuq1w6R_wglb47HvRtlT6ajHLThZl6ehCJMSd53gaRJKKFHlHAGrwAAAAG0r_Q_AA", default=None)
 FORCESUB = config("@scammer_botxz", default=None)
